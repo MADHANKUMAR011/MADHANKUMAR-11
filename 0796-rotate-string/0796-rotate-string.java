@@ -6,4 +6,4 @@ class Solution {
         String dou = s + s;
         return dou.contains(goal);
     }
-}
+} 
