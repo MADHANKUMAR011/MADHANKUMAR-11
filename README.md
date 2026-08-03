@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Madhankumar-arch/MADHANKUMAR-11/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0268-missing-number](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -57,5 +58,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0268-missing-number) |
 | [1408-string-matching-in-an-array](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/1408-string-matching-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
