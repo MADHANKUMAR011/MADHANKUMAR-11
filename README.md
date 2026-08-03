@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Madhankumar-arch/MADHANKUMAR-11/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Madhankumar-arch/MADHANKUMAR-11/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0268-missing-number](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0349-intersection-of-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/1408-string-matching-in-an-array) |
 ## Math
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
