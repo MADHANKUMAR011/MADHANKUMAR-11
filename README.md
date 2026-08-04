@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/0349-intersection-of-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/1408-string-matching-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/MADHANKUMAR011/MADHANKUMAR-11/tree/master/1470-shuffle-the-array) |
 ## Math
 |  |
 | ------- |
